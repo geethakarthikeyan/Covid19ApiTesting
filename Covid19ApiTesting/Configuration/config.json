@@ -1,0 +1,18 @@
+{
+  "Endpoints": [
+    {
+      "endPoint": "GenerateToken",
+      "URL": "auth/gentoken"
+    },
+
+    {
+      "endPoint": "VerifyToken",
+      "URL": "auth/verifytoken"
+    },
+
+    {
+      "endPoint": "GetUsers",
+      "URL": "v1/user"
+    }
+  ]
+}
